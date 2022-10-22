@@ -1,1 +1,1 @@
-pt("gr world")
+printt("hello world")
